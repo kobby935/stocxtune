@@ -1,0 +1,3582 @@
+.mediaViewInfo {
+	--web-view-name: Home Page – 1;
+	--web-view-id: Home_Page__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home_Page__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Home_Page__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1591px;
+	background-color: rgba(0,8,8,1);
+	overflow: hidden;
+	--web-view-name: Home Page – 1;
+	--web-view-id: Home_Page__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_5_jt {
+	fill: url(#Rectangle_5_jt);
+}
+.Rectangle_5_jt {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+}
+#My_Portfolio_ju {
+	left: 518px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#Analytics_jv {
+	opacity: 0.67;
+	left: 693px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(231,230,230,1);
+}
+#Insights_jw {
+	opacity: 0.67;
+	left: 809px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(231,230,230,1);
+}
+#New_to_Investing_jx {
+	opacity: 0.67;
+	left: 981px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(231,230,230,1);
+}
+#Button_Register_jy {
+	position: absolute;
+	width: 184px;
+	height: 56px;
+	left: 1378px;
+	top: 18px;
+	overflow: visible;
+}
+#Path_19_jz {
+	fill: rgba(10,83,83,1);
+}
+.Path_19_jz {
+	overflow: visible;
+	position: absolute;
+	width: 184px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Register_j {
+	left: 46px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.4px;
+}
+#Button_Sign_in {
+	position: absolute;
+	width: 184px;
+	height: 56px;
+	left: 1586px;
+	top: 18px;
+	overflow: visible;
+}
+#Rectangle_26_j {
+	fill: transparent;
+	stroke: rgba(33,117,117,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_26_j {
+	position: absolute;
+	overflow: visible;
+	width: 184px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+}
+#Sign_In_j {
+	opacity: 0.67;
+	left: 60px;
+	top: 14px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(152,252,252,1);
+	letter-spacing: 0.4px;
+}
+#Rectangle_30 {
+	fill: rgba(10,83,83,1);
+}
+.Rectangle_30 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1218px;
+	left: 0px;
+	top: 101px;
+}
+#Rectangle_31 {
+	fill: rgba(20,32,32,1);
+}
+.Rectangle_31 {
+	position: absolute;
+	overflow: visible;
+	width: 1630px;
+	height: 592px;
+	left: 145px;
+	top: 998px;
+}
+#Apple_Inc {
+	left: 355px;
+	top: 178px;
+	position: absolute;
+	overflow: visible;
+	width: 168px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 39px;
+	color: rgba(231,230,230,1);
+}
+#NASDAQ_APPL {
+	opacity: 0.57;
+	left: 357px;
+	top: 231px;
+	position: absolute;
+	overflow: visible;
+	width: 156px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(231,230,230,1);
+}
+#Group_30 {
+	position: absolute;
+	width: 102px;
+	height: 64px;
+	left: 604px;
+	top: 186px;
+	overflow: visible;
+}
+#Market_Cap {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(152,252,252,1);
+}
+#n_46T {
+	left: 10px;
+	top: 32px;
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(231,230,230,1);
+}
+#Group_29 {
+	position: absolute;
+	width: 80px;
+	height: 64px;
+	left: 831px;
+	top: 186px;
+	overflow: visible;
+}
+#PE_Ratio {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(152,252,252,1);
+}
+#n_46T_kd {
+	left: 0px;
+	top: 32px;
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(231,230,230,1);
+}
+#Group_28 {
+	position: absolute;
+	width: 100px;
+	height: 64px;
+	left: 1036px;
+	top: 186px;
+	overflow: visible;
+}
+#Revenue {
+	left: 17px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(152,252,252,1);
+}
+#n_6582B {
+	left: 0px;
+	top: 32px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(231,230,230,1);
+}
+#Group_27 {
+	position: absolute;
+	width: 59px;
+	height: 64px;
+	left: 1262px;
+	top: 186px;
+	overflow: visible;
+}
+#EPS {
+	left: 15px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 33px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(152,252,252,1);
+}
+#n_62 {
+	left: 0px;
+	top: 32px;
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(231,230,230,1);
+}
+#Group_26 {
+	position: absolute;
+	width: 127px;
+	height: 64px;
+	left: 1446px;
+	top: 186px;
+	overflow: visible;
+}
+#Dividend_Yield {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(152,252,252,1);
+}
+#n_58 {
+	left: 24px;
+	top: 32px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(231,230,230,1);
+}
+#Group_25 {
+	position: absolute;
+	width: 41px;
+	height: 64px;
+	left: 1698px;
+	top: 186px;
+	overflow: visible;
+}
+#Beta {
+	left: 2px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(152,252,252,1);
+}
+#n_21 {
+	left: 0px;
+	top: 32px;
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(231,230,230,1);
+}
+#Rectangle_37 {
+	fill: rgba(32,52,52,1);
+}
+.Rectangle_37 {
+	position: absolute;
+	overflow: visible;
+	width: 164px;
+	height: 55px;
+	left: 306px;
+	top: 1042px;
+}
+#Overview {
+	left: 341px;
+	top: 1056px;
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#Analyst_Ratings {
+	left: 557px;
+	top: 1056px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#SEC_Fillings {
+	left: 783px;
+	top: 1056px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#Executives {
+	left: 960px;
+	top: 1056px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#Insider_Tradings {
+	left: 1161px;
+	top: 1056px;
+	position: absolute;
+	overflow: visible;
+	width: 152px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#Comparable_Companies {
+	left: 1392px;
+	top: 1056px;
+	position: absolute;
+	overflow: visible;
+	width: 227px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#Line_5 {
+	opacity: 0.26;
+	fill: transparent;
+	stroke: rgba(152,252,252,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 1407px;
+	height: 1px;
+	left: 256.5px;
+	top: 1137.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Company_Overview {
+	left: 306px;
+	top: 1192px;
+	position: absolute;
+	overflow: visible;
+	width: 275px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 31px;
+	color: rgba(231,230,230,1);
+}
+#Apple_Inc_designs_manufactures {
+	opacity: 0.77;
+	left: 306px;
+	top: 1253px;
+	position: absolute;
+	overflow: hidden;
+	width: 1034px;
+	height: 291px;
+	line-height: 36px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 21px;
+	color: rgba(231,230,230,1);
+}
+#Group_35 {
+	position: absolute;
+	width: 1575.5px;
+	height: 625.801px;
+	left: 172.25px;
+	top: 309.699px;
+	overflow: visible;
+}
+#Chart {
+	position: absolute;
+	width: 1416.34px;
+	height: 562.581px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Chart_Container {
+	fill: rgba(26,31,36,0.239);
+	stroke: rgba(255,255,255,0.043);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Chart_Container {
+	position: absolute;
+	overflow: visible;
+	width: 1579.949px;
+	height: 630.25px;
+	left: 0px;
+	top: 0px;
+}
+#Dashed_Lines {
+	opacity: 0.5;
+	position: absolute;
+	width: 1405.34px;
+	height: 476.542px;
+	left: 5.562px;
+	top: 56.017px;
+	overflow: hidden;
+}
+#Group_k {
+	position: absolute;
+	width: 1208px;
+	height: 1px;
+	left: 0px;
+	top: 1.112px;
+	overflow: visible;
+}
+#Line_8 {
+	fill: transparent;
+	stroke: rgba(39,47,54,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 7;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8 {
+	overflow: visible;
+	position: absolute;
+	width: 1343.748px;
+	height: 2.225px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_la {
+	position: absolute;
+	width: 1208px;
+	height: 1px;
+	left: 1365.996px;
+	top: 1.112px;
+	overflow: visible;
+}
+#Line_8_k {
+	fill: transparent;
+	stroke: rgba(39,47,54,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 7;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8_k {
+	overflow: visible;
+	position: absolute;
+	width: 1343.748px;
+	height: 2.225px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_lb {
+	position: absolute;
+	width: 1208px;
+	height: 1px;
+	left: 0px;
+	top: 64.518px;
+	overflow: visible;
+}
+#Line_8_la {
+	fill: transparent;
+	stroke: rgba(39,47,54,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 7;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8_la {
+	overflow: visible;
+	position: absolute;
+	width: 1343.748px;
+	height: 2.225px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_lc {
+	position: absolute;
+	width: 1208px;
+	height: 1px;
+	left: 1365.996px;
+	top: 64.518px;
+	overflow: visible;
+}
+#Line_8_lb {
+	fill: transparent;
+	stroke: rgba(39,47,54,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 7;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8_lb {
+	overflow: visible;
+	position: absolute;
+	width: 1343.748px;
+	height: 2.225px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_ld {
+	position: absolute;
+	width: 1208px;
+	height: 1px;
+	left: 0px;
+	top: 127.923px;
+	overflow: visible;
+}
+#Line_8_ld {
+	fill: transparent;
+	stroke: rgba(39,47,54,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 7;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8_ld {
+	overflow: visible;
+	position: absolute;
+	width: 1343.748px;
+	height: 2.225px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_le {
+	position: absolute;
+	width: 1208px;
+	height: 1px;
+	left: 1365.996px;
+	top: 127.923px;
+	overflow: visible;
+}
+#Line_8_lf {
+	fill: transparent;
+	stroke: rgba(39,47,54,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 7;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8_lf {
+	overflow: visible;
+	position: absolute;
+	width: 1343.748px;
+	height: 2.225px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_lg {
+	position: absolute;
+	width: 1208px;
+	height: 1px;
+	left: 0px;
+	top: 191.328px;
+	overflow: visible;
+}
+#Line_8_lh {
+	fill: transparent;
+	stroke: rgba(39,47,54,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 7;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8_lh {
+	overflow: visible;
+	position: absolute;
+	width: 1343.748px;
+	height: 2.225px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_li {
+	position: absolute;
+	width: 1208px;
+	height: 1px;
+	left: 1365.996px;
+	top: 191.328px;
+	overflow: visible;
+}
+#Line_8_lj {
+	fill: transparent;
+	stroke: rgba(39,47,54,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 7;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8_lj {
+	overflow: visible;
+	position: absolute;
+	width: 1343.748px;
+	height: 2.225px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_lk {
+	position: absolute;
+	width: 1208px;
+	height: 1px;
+	left: 0px;
+	top: 254.734px;
+	overflow: visible;
+}
+#Line_8_ll {
+	fill: transparent;
+	stroke: rgba(39,47,54,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 7;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8_ll {
+	overflow: visible;
+	position: absolute;
+	width: 1343.748px;
+	height: 2.225px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_lm {
+	position: absolute;
+	width: 1208px;
+	height: 1px;
+	left: 1365.996px;
+	top: 254.734px;
+	overflow: visible;
+}
+#Line_8_ln {
+	fill: transparent;
+	stroke: rgba(39,47,54,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 7;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8_ln {
+	overflow: visible;
+	position: absolute;
+	width: 1343.748px;
+	height: 2.225px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_lo {
+	position: absolute;
+	width: 1208px;
+	height: 1px;
+	left: 0px;
+	top: 318.139px;
+	overflow: visible;
+}
+#Line_8_lp {
+	fill: transparent;
+	stroke: rgba(39,47,54,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 7;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8_lp {
+	overflow: visible;
+	position: absolute;
+	width: 1343.748px;
+	height: 2.225px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_lq {
+	position: absolute;
+	width: 1208px;
+	height: 1px;
+	left: 1365.996px;
+	top: 318.139px;
+	overflow: visible;
+}
+#Line_8_lr {
+	fill: transparent;
+	stroke: rgba(39,47,54,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 7;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8_lr {
+	overflow: visible;
+	position: absolute;
+	width: 1343.748px;
+	height: 2.225px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_ls {
+	position: absolute;
+	width: 1208px;
+	height: 1px;
+	left: 0px;
+	top: 381.544px;
+	overflow: visible;
+}
+#Line_8_lt {
+	fill: transparent;
+	stroke: rgba(39,47,54,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 7;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8_lt {
+	overflow: visible;
+	position: absolute;
+	width: 1343.748px;
+	height: 2.225px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_lu {
+	position: absolute;
+	width: 1208px;
+	height: 1px;
+	left: 1365.996px;
+	top: 381.544px;
+	overflow: visible;
+}
+#Line_8_lv {
+	fill: transparent;
+	stroke: rgba(39,47,54,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 7;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8_lv {
+	overflow: visible;
+	position: absolute;
+	width: 1343.748px;
+	height: 2.225px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_lw {
+	position: absolute;
+	width: 1208px;
+	height: 1px;
+	left: 0px;
+	top: 444.95px;
+	overflow: visible;
+}
+#Line_8_lx {
+	fill: transparent;
+	stroke: rgba(39,47,54,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 7;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8_lx {
+	overflow: visible;
+	position: absolute;
+	width: 1343.748px;
+	height: 2.225px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_ly {
+	position: absolute;
+	width: 1208px;
+	height: 1px;
+	left: 1365.996px;
+	top: 444.95px;
+	overflow: visible;
+}
+#Line_8_lz {
+	fill: transparent;
+	stroke: rgba(39,47,54,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 7;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8_lz {
+	overflow: visible;
+	position: absolute;
+	width: 1343.748px;
+	height: 2.225px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_l {
+	position: absolute;
+	width: 1208px;
+	height: 1px;
+	left: 0px;
+	top: 508.355px;
+	overflow: visible;
+}
+#Line_8_l {
+	fill: transparent;
+	stroke: rgba(39,47,54,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 7;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8_l {
+	overflow: visible;
+	position: absolute;
+	width: 1343.748px;
+	height: 2.225px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_ma {
+	position: absolute;
+	width: 1208px;
+	height: 1px;
+	left: 1365.996px;
+	top: 508.355px;
+	overflow: visible;
+}
+#Line_8_ma {
+	fill: transparent;
+	stroke: rgba(39,47,54,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 7;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8_ma {
+	overflow: visible;
+	position: absolute;
+	width: 1343.748px;
+	height: 2.225px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Bottom_Separator {
+	opacity: 0.998;
+	fill: transparent;
+	stroke: rgba(39,47,54,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Bottom_Separator {
+	overflow: visible;
+	position: absolute;
+	width: 1564.376px;
+	height: 1.112px;
+	left: 5.562px;
+	top: 498.573px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Chart_l {
+	position: absolute;
+	width: 1249.497px;
+	height: 433.695px;
+	left: 163.876px;
+	top: 44.301px;
+	overflow: visible;
+}
+#Time_container {
+	fill: rgba(39,47,54,1);
+}
+.Time_container {
+	position: absolute;
+	overflow: visible;
+	width: 302px;
+	height: 44px;
+	left: 73.497px;
+	top: 0px;
+}
+#n_0m {
+	position: absolute;
+	width: 65px;
+	height: 34px;
+	left: 78.497px;
+	top: 5px;
+	overflow: visible;
+}
+#Rectangle_137 {
+	fill: rgba(26,31,36,1);
+	stroke: rgba(255,255,255,0.102);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_137 {
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+#n_0m_l {
+	left: 9px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	white-space: nowrap;
+	line-height: 43px;
+	margin-top: -13.5px;
+	text-align: left;
+	font-family: Basic Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Path_11 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_11 {
+	overflow: visible;
+	position: absolute;
+	width: 9.414px;
+	height: 6.121px;
+	left: 48px;
+	top: 16px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Hour {
+	position: absolute;
+	width: 43px;
+	height: 36px;
+	left: 151.497px;
+	top: 4px;
+	overflow: visible;
+	padding: 7px 9px 8px 9px;
+}
+#Rectangle_137_mc {
+	fill: rgba(255,186,0,1);
+}
+.Rectangle_137_mc {
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	height: 34px;
+	left: 0px;
+	top: 1px;
+}
+#Path_11_md {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_11_md {
+	overflow: visible;
+	position: absolute;
+	width: 9.414px;
+	height: 6.121px;
+	left: 26px;
+	top: 17px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#H {
+	left: 9px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 12px;
+	white-space: nowrap;
+	line-height: 43px;
+	margin-top: -13.5px;
+	text-align: left;
+	font-family: Basic Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Day {
+	position: absolute;
+	width: 49px;
+	height: 36px;
+	left: 202.497px;
+	top: 4px;
+	overflow: visible;
+	padding: 7px 9px 8px 9px;
+}
+#Rectangle_137_mg {
+	fill: rgba(26,31,36,1);
+	stroke: rgba(255,255,255,0.102);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_137_mg {
+	position: absolute;
+	overflow: visible;
+	width: 49px;
+	height: 34px;
+	left: 0px;
+	top: 1px;
+}
+#Path_11_mh {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_11_mh {
+	overflow: visible;
+	position: absolute;
+	width: 9.414px;
+	height: 6.121px;
+	left: 32px;
+	top: 17px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_D_mi {
+	left: 9px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 21px;
+	white-space: nowrap;
+	line-height: 43px;
+	margin-top: -13.5px;
+	text-align: left;
+	font-family: Basic Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Week {
+	position: absolute;
+	width: 52px;
+	height: 36px;
+	left: 259.497px;
+	top: 4px;
+	overflow: visible;
+	padding: 7px 9px 8px 9px;
+}
+#Rectangle_137_mk {
+	fill: rgba(26,31,36,1);
+	stroke: rgba(255,255,255,0.102);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_137_mk {
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	height: 34px;
+	left: 0px;
+	top: 1px;
+}
+#Path_11_ml {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_11_ml {
+	overflow: visible;
+	position: absolute;
+	width: 9.414px;
+	height: 6.121px;
+	left: 35px;
+	top: 17px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_W_mm {
+	left: 9px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 25px;
+	white-space: nowrap;
+	line-height: 43px;
+	margin-top: -13.5px;
+	text-align: left;
+	font-family: Basic Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Month {
+	position: absolute;
+	width: 51px;
+	height: 36px;
+	left: 319.497px;
+	top: 4px;
+	overflow: visible;
+	padding: 7px 9px 8px 9px;
+}
+#Rectangle_137_mo {
+	fill: rgba(26,31,36,1);
+	stroke: rgba(255,255,255,0.102);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_137_mo {
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	height: 34px;
+	left: 0px;
+	top: 1px;
+}
+#Path_11_mp {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_11_mp {
+	overflow: visible;
+	position: absolute;
+	width: 9.414px;
+	height: 6.121px;
+	left: 34px;
+	top: 17px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_M_mq {
+	left: 9px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	white-space: nowrap;
+	line-height: 43px;
+	margin-top: -13.5px;
+	text-align: left;
+	font-family: Basic Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Settings_container {
+	fill: rgba(39,47,54,1);
+}
+.Settings_container {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 44px;
+	left: 1049.497px;
+	top: 0px;
+}
+#Settings_button {
+	position: absolute;
+	width: 43px;
+	height: 34px;
+	left: 1201.497px;
+	top: 5px;
+	overflow: visible;
+}
+#Rectangle_143 {
+	fill: rgba(26,31,36,1);
+	stroke: rgba(255,255,255,0.102);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_143 {
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+#gear {
+	position: absolute;
+	width: 19.107px;
+	height: 20.09px;
+	left: 11.946px;
+	top: 6.955px;
+	overflow: visible;
+}
+#Group_19 {
+	position: absolute;
+	width: 19.107px;
+	height: 20.09px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_14_mw {
+	fill: rgba(255,255,255,1);
+}
+.Path_14_mw {
+	overflow: visible;
+	position: absolute;
+	width: 3.479px;
+	height: 3.479px;
+	left: 7.795px;
+	top: 8.306px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_15_mx {
+	fill: rgba(115,118,121,1);
+}
+.Path_15_mx {
+	overflow: visible;
+	position: absolute;
+	width: 19.107px;
+	height: 20.09px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Filters_button {
+	position: absolute;
+	width: 43px;
+	height: 34px;
+	left: 1152.497px;
+	top: 5px;
+	overflow: visible;
+}
+#Rectangle_137_mz {
+	fill: rgba(26,31,36,1);
+	stroke: rgba(255,255,255,0.102);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_137_mz {
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+#sliders {
+	position: absolute;
+	width: 24px;
+	height: 22.5px;
+	left: 9.5px;
+	top: 5.75px;
+	overflow: visible;
+}
+#Group_20 {
+	position: absolute;
+	width: 24px;
+	height: 22.5px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_16_m {
+	opacity: 0.4;
+	fill: rgba(247,247,247,1);
+}
+.Path_16_m {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 18px;
+	left: 0px;
+	top: 2.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_17 {
+	fill: rgba(247,247,247,1);
+}
+.Path_17 {
+	overflow: visible;
+	position: absolute;
+	width: 13.5px;
+	height: 22.5px;
+	left: 6px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candles {
+	position: absolute;
+	width: 1246.497px;
+	height: 428.695px;
+	left: 0px;
+	top: 5px;
+	overflow: visible;
+}
+#Candles_m {
+	position: absolute;
+	width: 1246.497px;
+	height: 400.866px;
+	left: 0px;
+	top: 27.829px;
+	overflow: visible;
+}
+#Path_234 {
+	fill: rgba(219,62,98,1);
+}
+.Path_234 {
+	overflow: visible;
+	position: absolute;
+	width: 1246.497px;
+	height: 400.866px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_235 {
+	fill: rgba(96,188,63,1);
+}
+.Path_235 {
+	overflow: visible;
+	position: absolute;
+	width: 1210.173px;
+	height: 368.432px;
+	left: 18.173px;
+	top: 15.523px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candles_button {
+	position: absolute;
+	width: 43px;
+	height: 34px;
+	left: 1054.497px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_142 {
+	fill: rgba(68,78,88,1);
+	stroke: rgba(255,255,255,0.102);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_142 {
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+#chart-candlestick {
+	position: absolute;
+	width: 24px;
+	height: 21px;
+	left: 9.218px;
+	top: 6.5px;
+	overflow: visible;
+}
+#Group_18 {
+	position: absolute;
+	width: 24px;
+	height: 21px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_12 {
+	opacity: 0.4;
+	fill: rgba(247,247,247,1);
+}
+.Path_12 {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 21px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_13 {
+	fill: rgba(247,247,247,1);
+}
+.Path_13 {
+	overflow: visible;
+	position: absolute;
+	width: 16.5px;
+	height: 16.5px;
+	left: 6px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line {
+	position: absolute;
+	width: 1202.383px;
+	height: 389.347px;
+	left: 44.584px;
+	top: 5px;
+	overflow: visible;
+}
+#Line_Chart {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,186,0,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_Chart {
+	overflow: visible;
+	position: absolute;
+	width: 1207.173px;
+	height: 294.72px;
+	left: 0px;
+	top: 99.374px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_button {
+	position: absolute;
+	width: 43px;
+	height: 34px;
+	left: 1058.913px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_141 {
+	fill: rgba(68,78,88,1);
+	stroke: rgba(255,255,255,0.102);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_141 {
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+#chart-line {
+	position: absolute;
+	width: 24px;
+	height: 21px;
+	left: 9.218px;
+	top: 6.5px;
+	overflow: visible;
+}
+#Group_21_nj {
+	position: absolute;
+	width: 24px;
+	height: 21px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_18_nk {
+	opacity: 0.4;
+	fill: rgba(247,247,247,1);
+}
+.Path_18_nk {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 21px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_19_nl {
+	fill: rgba(247,247,247,1);
+}
+.Path_19_nl {
+	overflow: visible;
+	position: absolute;
+	width: 17.379px;
+	height: 10.189px;
+	left: 4.828px;
+	top: 3.311px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_22 {
+	position: absolute;
+	width: 1321.501px;
+	height: 119.024px;
+	left: 160.25px;
+	top: 434.899px;
+	overflow: visible;
+}
+#Candle {
+	position: absolute;
+	width: 1px;
+	height: 45px;
+	left: 1321.5px;
+	top: 68.967px;
+	overflow: visible;
+}
+#Candle_no {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_no {
+	overflow: visible;
+	position: absolute;
+	width: 10.012px;
+	height: 50.057px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_np {
+	position: absolute;
+	width: 1px;
+	height: 57px;
+	left: 1301.478px;
+	top: 55.619px;
+	overflow: visible;
+}
+#Candle_nq {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_nq {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 63.405px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_nr {
+	position: absolute;
+	width: 1px;
+	height: 19px;
+	left: 1281.455px;
+	top: 97.889px;
+	overflow: visible;
+}
+#Candle_ns {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_ns {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 21.135px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_nt {
+	position: absolute;
+	width: 1px;
+	height: 31px;
+	left: 1261.432px;
+	top: 84.541px;
+	overflow: visible;
+}
+#Candle_nu {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_nu {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 34.484px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_nv {
+	position: absolute;
+	width: 1px;
+	height: 75px;
+	left: 1241.41px;
+	top: 35.596px;
+	overflow: visible;
+}
+#Candle_nw {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_nw {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 83.428px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_nx {
+	position: absolute;
+	width: 1px;
+	height: 89px;
+	left: 1221.387px;
+	top: 20.023px;
+	overflow: visible;
+}
+#Candle_ny {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_ny {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 99.001px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_nz {
+	position: absolute;
+	width: 1px;
+	height: 52px;
+	left: 1201.364px;
+	top: 61.181px;
+	overflow: visible;
+}
+#Candle_n {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_n {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 57.844px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_oa {
+	position: absolute;
+	width: 1px;
+	height: 82px;
+	left: 1181.341px;
+	top: 27.81px;
+	overflow: visible;
+}
+#Candle_ob {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_ob {
+	overflow: visible;
+	position: absolute;
+	width: 10.012px;
+	height: 91.215px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_oc {
+	position: absolute;
+	width: 1px;
+	height: 95px;
+	left: 1161.318px;
+	top: 13.349px;
+	overflow: visible;
+}
+#Candle_od {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_od {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 105.676px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_oe {
+	position: absolute;
+	width: 1px;
+	height: 43px;
+	left: 1141.296px;
+	top: 71.192px;
+	overflow: visible;
+}
+#Candle_of {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_of {
+	overflow: visible;
+	position: absolute;
+	width: 10.012px;
+	height: 47.832px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_og {
+	position: absolute;
+	width: 1px;
+	height: 54px;
+	left: 1121.273px;
+	top: 58.956px;
+	overflow: visible;
+}
+#Candle_oh {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_oh {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 60.068px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_oi {
+	position: absolute;
+	width: 1px;
+	height: 17px;
+	left: 1101.25px;
+	top: 100.114px;
+	overflow: visible;
+}
+#Candle_oj {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_oj {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 18.91px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_ok {
+	position: absolute;
+	width: 1px;
+	height: 37px;
+	left: 1081.228px;
+	top: 77.866px;
+	overflow: visible;
+}
+#Candle_ol {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_ol {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 41.158px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_om {
+	position: absolute;
+	width: 1px;
+	height: 62px;
+	left: 1061.205px;
+	top: 50.057px;
+	overflow: visible;
+}
+#Candle_on {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_on {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 68.967px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_oo {
+	position: absolute;
+	width: 1px;
+	height: 54px;
+	left: 1041.182px;
+	top: 58.956px;
+	overflow: visible;
+}
+#Candle_op {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_op {
+	overflow: visible;
+	position: absolute;
+	width: 10.012px;
+	height: 60.068px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_oq {
+	position: absolute;
+	width: 1px;
+	height: 16px;
+	left: 1021.159px;
+	top: 101.226px;
+	overflow: visible;
+}
+#Candle_or {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_or {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 17.798px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_os {
+	position: absolute;
+	width: 1px;
+	height: 25px;
+	left: 1001.137px;
+	top: 91.215px;
+	overflow: visible;
+}
+#Candle_ot {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_ot {
+	overflow: visible;
+	position: absolute;
+	width: 10.012px;
+	height: 27.809px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_ou {
+	position: absolute;
+	width: 1px;
+	height: 81px;
+	left: 981.114px;
+	top: 28.922px;
+	overflow: visible;
+}
+#Candle_ov {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_ov {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 90.102px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_ow {
+	position: absolute;
+	width: 1px;
+	height: 49px;
+	left: 961.091px;
+	top: 64.518px;
+	overflow: visible;
+}
+#Candle_ox {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_ox {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 54.506px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_oy {
+	position: absolute;
+	width: 1px;
+	height: 16px;
+	left: 941.068px;
+	top: 101.226px;
+	overflow: visible;
+}
+#Candle_oz {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_oz {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 17.798px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_o {
+	position: absolute;
+	width: 1px;
+	height: 34px;
+	left: 921.046px;
+	top: 81.203px;
+	overflow: visible;
+}
+#Candle_pa {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_pa {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 37.821px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_pb {
+	position: absolute;
+	width: 1px;
+	height: 58px;
+	left: 901.023px;
+	top: 54.506px;
+	overflow: visible;
+}
+#Candle_pc {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_pc {
+	overflow: visible;
+	position: absolute;
+	width: 10.012px;
+	height: 64.518px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_pd {
+	position: absolute;
+	width: 1px;
+	height: 45px;
+	left: 881px;
+	top: 68.967px;
+	overflow: visible;
+}
+#Candle_pe {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_pe {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 50.057px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_pf {
+	position: absolute;
+	width: 1px;
+	height: 23px;
+	left: 860.978px;
+	top: 93.439px;
+	overflow: visible;
+}
+#Candle_pg {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_pg {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 25.585px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_ph {
+	position: absolute;
+	width: 1px;
+	height: 34px;
+	left: 840.955px;
+	top: 81.203px;
+	overflow: visible;
+}
+#Candle_pi {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_pi {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 37.821px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_pj {
+	position: absolute;
+	width: 1px;
+	height: 50px;
+	left: 820.932px;
+	top: 63.406px;
+	overflow: visible;
+}
+#Candle_pk {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_pk {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 55.619px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_pl {
+	position: absolute;
+	width: 1px;
+	height: 107px;
+	left: 800.909px;
+	top: 0px;
+	overflow: visible;
+}
+#Candle_pm {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_pm {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 119.024px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_pn {
+	position: absolute;
+	width: 1px;
+	height: 73px;
+	left: 780.886px;
+	top: 37.821px;
+	overflow: visible;
+}
+#Candle_po {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_po {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 81.203px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_pp {
+	position: absolute;
+	width: 1px;
+	height: 45px;
+	left: 760.864px;
+	top: 68.967px;
+	overflow: visible;
+}
+#Candle_pq {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_pq {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 50.057px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_pr {
+	position: absolute;
+	width: 1px;
+	height: 35px;
+	left: 740.841px;
+	top: 80.091px;
+	overflow: visible;
+}
+#Candle_ps {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_ps {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 38.933px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_pt {
+	position: absolute;
+	width: 1px;
+	height: 27px;
+	left: 720.818px;
+	top: 88.99px;
+	overflow: visible;
+}
+#Candle_pu {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_pu {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 30.034px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_pv {
+	position: absolute;
+	width: 1px;
+	height: 45px;
+	left: 700.796px;
+	top: 68.967px;
+	overflow: visible;
+}
+#Candle_pw {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_pw {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 50.057px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_px {
+	position: absolute;
+	width: 1px;
+	height: 57px;
+	left: 680.773px;
+	top: 55.619px;
+	overflow: visible;
+}
+#Candle_py {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_py {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 63.405px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_pz {
+	position: absolute;
+	width: 1px;
+	height: 5px;
+	left: 660.75px;
+	top: 113.462px;
+	overflow: visible;
+}
+#Candle_p {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_p {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 5.562px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_qa {
+	position: absolute;
+	width: 1px;
+	height: 89px;
+	left: 640.728px;
+	top: 20.023px;
+	overflow: visible;
+}
+#Candle_qb {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_qb {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 99.001px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_qc {
+	position: absolute;
+	width: 1px;
+	height: 45px;
+	left: 620.705px;
+	top: 68.967px;
+	overflow: visible;
+}
+#Candle_qd {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_qd {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 50.057px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_qe {
+	position: absolute;
+	width: 1px;
+	height: 16px;
+	left: 600.682px;
+	top: 101.226px;
+	overflow: visible;
+}
+#Candle_qf {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_qf {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 17.798px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_qg {
+	position: absolute;
+	width: 1px;
+	height: 28px;
+	left: 580.659px;
+	top: 87.878px;
+	overflow: visible;
+}
+#Candle_qh {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_qh {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 31.146px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_qi {
+	position: absolute;
+	width: 1px;
+	height: 57px;
+	left: 560.636px;
+	top: 55.619px;
+	overflow: visible;
+}
+#Candle_qj {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_qj {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 63.405px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_qk {
+	position: absolute;
+	width: 1px;
+	height: 89px;
+	left: 540.614px;
+	top: 20.023px;
+	overflow: visible;
+}
+#Candle_ql {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_ql {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 99.001px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_qm {
+	position: absolute;
+	width: 1px;
+	height: 82px;
+	left: 520.591px;
+	top: 27.81px;
+	overflow: visible;
+}
+#Candle_qn {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_qn {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 91.215px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_qo {
+	position: absolute;
+	width: 1px;
+	height: 40px;
+	left: 500.568px;
+	top: 74.529px;
+	overflow: visible;
+}
+#Candle_qp {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_qp {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 44.495px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_qq {
+	position: absolute;
+	width: 1px;
+	height: 96px;
+	left: 480.545px;
+	top: 12.236px;
+	overflow: visible;
+}
+#Candle_qr {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_qr {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 106.788px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_qs {
+	position: absolute;
+	width: 1px;
+	height: 59px;
+	left: 460.523px;
+	top: 53.394px;
+	overflow: visible;
+}
+#Candle_qt {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_qt {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 65.63px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_qu {
+	position: absolute;
+	width: 1px;
+	height: 37px;
+	left: 440.5px;
+	top: 77.866px;
+	overflow: visible;
+}
+#Candle_qv {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_qv {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 41.158px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_qw {
+	position: absolute;
+	width: 1px;
+	height: 24px;
+	left: 420.477px;
+	top: 92.327px;
+	overflow: visible;
+}
+#Candle_qx {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_qx {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 26.697px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_qy {
+	position: absolute;
+	width: 1px;
+	height: 16px;
+	left: 400.455px;
+	top: 101.226px;
+	overflow: visible;
+}
+#Candle_qz {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_qz {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 17.798px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_q {
+	position: absolute;
+	width: 1px;
+	height: 62px;
+	left: 380.432px;
+	top: 50.057px;
+	overflow: visible;
+}
+#Candle_ra {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_ra {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 68.967px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_rb {
+	position: absolute;
+	width: 1px;
+	height: 31px;
+	left: 360.409px;
+	top: 84.541px;
+	overflow: visible;
+}
+#Candle_rc {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_rc {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 34.484px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_rd {
+	position: absolute;
+	width: 1px;
+	height: 56px;
+	left: 340.386px;
+	top: 56.731px;
+	overflow: visible;
+}
+#Candle_re {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_re {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 62.293px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_rf {
+	position: absolute;
+	width: 1px;
+	height: 16px;
+	left: 320.364px;
+	top: 101.226px;
+	overflow: visible;
+}
+#Candle_rg {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_rg {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 17.798px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_rh {
+	position: absolute;
+	width: 1px;
+	height: 86px;
+	left: 300.341px;
+	top: 23.36px;
+	overflow: visible;
+}
+#Candle_ri {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_ri {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 95.664px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_rj {
+	position: absolute;
+	width: 1px;
+	height: 44px;
+	left: 280.318px;
+	top: 70.08px;
+	overflow: visible;
+}
+#Candle_rk {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_rk {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 48.945px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_rl {
+	position: absolute;
+	width: 1px;
+	height: 6px;
+	left: 260.295px;
+	top: 112.35px;
+	overflow: visible;
+}
+#Candle_rm {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_rm {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 6.674px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_rn {
+	position: absolute;
+	width: 1px;
+	height: 12px;
+	left: 240.273px;
+	top: 105.676px;
+	overflow: visible;
+}
+#Candle_ro {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_ro {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 13.348px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_rp {
+	position: absolute;
+	width: 1px;
+	height: 73px;
+	left: 220.25px;
+	top: 37.821px;
+	overflow: visible;
+}
+#Candle_rq {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_rq {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 81.203px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_rr {
+	position: absolute;
+	width: 1px;
+	height: 37px;
+	left: 200.227px;
+	top: 77.866px;
+	overflow: visible;
+}
+#Candle_rs {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_rs {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 41.158px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_rt {
+	position: absolute;
+	width: 1px;
+	height: 23px;
+	left: 180.204px;
+	top: 93.439px;
+	overflow: visible;
+}
+#Candle_ru {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_ru {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 25.585px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_rv {
+	position: absolute;
+	width: 1px;
+	height: 95px;
+	left: 160.182px;
+	top: 13.349px;
+	overflow: visible;
+}
+#Candle_rw {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_rw {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 105.676px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_rx {
+	position: absolute;
+	width: 1px;
+	height: 62px;
+	left: 140.159px;
+	top: 50.057px;
+	overflow: visible;
+}
+#Candle_ry {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_ry {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 68.967px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_rz {
+	position: absolute;
+	width: 1px;
+	height: 8px;
+	left: 120.136px;
+	top: 110.125px;
+	overflow: visible;
+}
+#Candle_r {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_r {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 8.899px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_sa {
+	position: absolute;
+	width: 1px;
+	height: 42px;
+	left: 100.114px;
+	top: 72.304px;
+	overflow: visible;
+}
+#Candle_sb {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_sb {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 46.72px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_sc {
+	position: absolute;
+	width: 1px;
+	height: 73px;
+	left: 80.091px;
+	top: 37.821px;
+	overflow: visible;
+}
+#Candle_sd {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_sd {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 81.203px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_se {
+	position: absolute;
+	width: 1px;
+	height: 15px;
+	left: 60.068px;
+	top: 102.339px;
+	overflow: visible;
+}
+#Candle_sf {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_sf {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 16.686px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_sg {
+	position: absolute;
+	width: 1px;
+	height: 54px;
+	left: 40.045px;
+	top: 58.956px;
+	overflow: visible;
+}
+#Candle_sh {
+	fill: transparent;
+	stroke: rgba(219,62,98,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_sh {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 60.068px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_si {
+	position: absolute;
+	width: 1px;
+	height: 37px;
+	left: 20.022px;
+	top: 77.866px;
+	overflow: visible;
+}
+#Candle_sj {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_sj {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 41.158px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Candle_sk {
+	position: absolute;
+	width: 1px;
+	height: 46px;
+	left: 0px;
+	top: 67.855px;
+	overflow: visible;
+}
+#Candle_sl {
+	fill: transparent;
+	stroke: rgba(96,188,63,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Candle_sl {
+	overflow: visible;
+	position: absolute;
+	width: 10.011px;
+	height: 51.169px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Logo_img_rd {
+	position: absolute;
+	width: 272px;
+	height: 56px;
+	left: 140px;
+	top: 18px;
+	overflow: visible;
+}
+#Dark_mode_re {
+	position: absolute;
+	width: 28px;
+	height: 28px;
+	left: 1327px;
+	top: 32px;
+	overflow: visible;
+}
+#Apple {
+	position: absolute;
+	width: 90px;
+	height: 76px;
+	left: 253px;
+	top: 187px;
+	overflow: visible;
+}

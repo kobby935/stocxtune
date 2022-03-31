@@ -1,0 +1,559 @@
+.mediaViewInfo {
+	--web-view-name: Login Page;
+	--web-view-id: Login_Page;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Login_Page;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Login_Page {
+	position: absolute;
+	width: 1920px;
+	height: 1167px;
+	background-color: rgba(0,8,8,1);
+	overflow: hidden;
+	--web-view-name: Login Page;
+	--web-view-id: Login_Page;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#pexels-burak-kebapci-186461 {
+	opacity: 0.1;
+	position: absolute;
+	width: 1920px;
+	height: 1153px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_5_sq {
+	opacity: 0;
+	fill: url(#Rectangle_5_sq);
+}
+.Rectangle_5_sq {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+}
+#My_Portfolio_sr {
+	left: 518px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#Analytics_ss {
+	opacity: 0.67;
+	left: 693px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(231,230,230,1);
+}
+#Insights_st {
+	opacity: 0.67;
+	left: 809px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(231,230,230,1);
+}
+#New_to_Investing_su {
+	opacity: 0.67;
+	left: 981px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(231,230,230,1);
+}
+#Button_Register_sv {
+	position: absolute;
+	width: 184px;
+	height: 56px;
+	left: 1378px;
+	top: 18px;
+	overflow: visible;
+}
+#Path_19_sw {
+	fill: rgba(10,83,83,1);
+}
+.Path_19_sw {
+	overflow: visible;
+	position: absolute;
+	width: 184px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Register_sx {
+	left: 46px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.4px;
+}
+#Button_Sign_in_sy {
+	position: absolute;
+	width: 184px;
+	height: 56px;
+	left: 1586px;
+	top: 18px;
+	overflow: visible;
+}
+#Rectangle_26_sz {
+	fill: transparent;
+	stroke: rgba(33,117,117,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_26_sz {
+	position: absolute;
+	overflow: visible;
+	width: 184px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+}
+#Sign_In_s {
+	opacity: 0.67;
+	left: 60px;
+	top: 14px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(152,252,252,1);
+	letter-spacing: 0.4px;
+}
+#Monitor_and_trade_from_over_25 {
+	opacity: 0.6;
+	left: 604px;
+	top: 268px;
+	position: absolute;
+	overflow: visible;
+	width: 721px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 32px;
+	color: rgba(182,201,201,1);
+}
+#Login_to_Your_Account {
+	left: 741px;
+	top: 196px;
+	position: absolute;
+	overflow: visible;
+	width: 440px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 42px;
+	color: rgba(182,201,201,1);
+}
+#Button_mail {
+	position: absolute;
+	width: 546px;
+	height: 82px;
+	left: 363px;
+	top: 391px;
+	overflow: visible;
+}
+#Rectangle_144_s {
+	opacity: 0.11;
+	fill: rgba(152,252,252,1);
+}
+.Rectangle_144_s {
+	position: absolute;
+	overflow: visible;
+	width: 546px;
+	height: 82px;
+	left: 0px;
+	top: 0px;
+}
+#Email_Address_s {
+	opacity: 0.6;
+	left: 30px;
+	top: 8px;
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#whitemanfulleffectstudio_s {
+	left: 30px;
+	top: 33px;
+	position: absolute;
+	overflow: visible;
+	width: 313px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#Button_Password {
+	position: absolute;
+	width: 546px;
+	height: 87px;
+	left: 363px;
+	top: 516px;
+	overflow: visible;
+}
+#Rectangle_144_ta {
+	opacity: 0.11;
+	fill: rgba(152,252,252,1);
+}
+.Rectangle_144_ta {
+	position: absolute;
+	overflow: visible;
+	width: 546px;
+	height: 87px;
+	left: 0px;
+	top: 0px;
+}
+#Password_s {
+	opacity: 0.6;
+	left: 30px;
+	top: 8px;
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#Text_ta {
+	left: 30px;
+	top: 46px;
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#Button_Click_SignIn {
+	fill: rgba(10,83,83,1);
+}
+.Button_Click_SignIn {
+	position: absolute;
+	overflow: visible;
+	width: 546px;
+	height: 85px;
+	left: 360px;
+	top: 658px;
+}
+#Google_SignIn {
+	opacity: 0.45;
+	fill: transparent;
+	stroke: rgba(152,252,252,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Google_SignIn {
+	position: absolute;
+	overflow: visible;
+	width: 463px;
+	height: 71px;
+	left: 1130px;
+	top: 391px;
+}
+#Rectangle_149 {
+	opacity: 0.45;
+	fill: transparent;
+	stroke: rgba(152,252,252,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_149 {
+	position: absolute;
+	overflow: visible;
+	width: 463px;
+	height: 71px;
+	left: 1130px;
+	top: 391px;
+}
+#Rectangle_150 {
+	opacity: 0.45;
+	fill: transparent;
+	stroke: rgba(152,252,252,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_150 {
+	position: absolute;
+	overflow: visible;
+	width: 463px;
+	height: 71px;
+	left: 1130px;
+	top: 391px;
+}
+#Facebook_SignIn {
+	opacity: 0.45;
+	fill: transparent;
+	stroke: rgba(152,252,252,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Facebook_SignIn {
+	position: absolute;
+	overflow: visible;
+	width: 463px;
+	height: 71px;
+	left: 1130px;
+	top: 513px;
+}
+#Apple_SignIn {
+	opacity: 0.45;
+	fill: transparent;
+	stroke: rgba(152,252,252,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Apple_SignIn {
+	position: absolute;
+	overflow: visible;
+	width: 463px;
+	height: 71px;
+	left: 1130px;
+	top: 658px;
+}
+#Sign_in {
+	left: 565px;
+	top: 683px;
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+	text-transform: uppercase;
+}
+#Line_9 {
+	fill: transparent;
+	stroke: rgba(152,252,252,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_9 {
+	overflow: visible;
+	position: absolute;
+	width: 24.909px;
+	height: 87.735px;
+	left: 1001.5px;
+	top: 516.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-google {
+	fill: rgba(152,252,252,1);
+}
+.Icon_awesome-google {
+	overflow: visible;
+	position: absolute;
+	width: 30.31px;
+	height: 30.807px;
+	left: 1162.844px;
+	top: 411.125px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Sign_in_with_Google {
+	left: 1241px;
+	top: 411px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#Sign_in_with_Facebook {
+	left: 1241px;
+	top: 533px;
+	position: absolute;
+	overflow: visible;
+	width: 248px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#Sign_in_with_Apple_Account {
+	left: 1241px;
+	top: 678px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#Forgot_Password {
+	left: 918px;
+	top: 809px;
+	position: absolute;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(152,252,252,1);
+	letter-spacing: 0.4px;
+}
+#f {
+	left: 1156px;
+	top: 533px;
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	height: 42px;
+	text-align: center;
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(152,252,252,1);
+}
+#Image_2 {
+	position: absolute;
+	width: 56px;
+	height: 49px;
+	left: 1150px;
+	top: 669px;
+	overflow: visible;
+}
+#Dark_mode_tq {
+	position: absolute;
+	width: 28px;
+	height: 28px;
+	left: 1328px;
+	top: 34px;
+	overflow: visible;
+}
+#Logo_img_tr {
+	position: absolute;
+	width: 272px;
+	height: 56px;
+	left: 140px;
+	top: 18px;
+	overflow: visible;
+}

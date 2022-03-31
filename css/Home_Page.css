@@ -1,0 +1,1438 @@
+.mediaViewInfo {
+	--web-view-name: Home Page;
+	--web-view-id: Home_Page;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home_Page;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Home_Page {
+	position: absolute;
+	width: 1920px;
+	height: 1167px;
+	background-color: rgba(0,8,8,1);
+	overflow: hidden;
+	--web-view-name: Home Page;
+	--web-view-id: Home_Page;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_154_l {
+	fill: url(#Rectangle_154_l);
+}
+.Rectangle_154_l {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 95px;
+	left: 0px;
+	top: -1px;
+}
+#Home_Page_Board {
+	opacity: 0.1;
+	position: absolute;
+	width: 1920px;
+	height: 1153px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#My_Portfolio_n {
+	left: 518px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#Analytics {
+	opacity: 0.67;
+	left: 693px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(231,230,230,1);
+}
+#Insights {
+	opacity: 0.67;
+	left: 809px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(231,230,230,1);
+}
+#New_to_Investing {
+	opacity: 0.67;
+	left: 981px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(231,230,230,1);
+}
+#Search_Stock_Portfolios {
+	position: absolute;
+	width: 890px;
+	height: 88px;
+	left: 515px;
+	top: 407px;
+	overflow: visible;
+}
+#Button_Search {
+	position: absolute;
+	width: 212px;
+	height: 88px;
+	left: 678px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_27 {
+	fill: rgba(10,83,83,1);
+}
+.Rectangle_27 {
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 88px;
+	left: 0px;
+	top: 0px;
+}
+#Search {
+	left: 75px;
+	top: 25px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.4px;
+}
+#Textbox_Search {
+	position: absolute;
+	width: 669px;
+	height: 88px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_14 {
+	fill: rgba(20,32,32,1);
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 669px;
+	height: 88px;
+	left: 0px;
+	top: 0px;
+}
+#Search_Stock_Portfolios_x {
+	opacity: 0.6;
+	left: 103px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 248px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 26px;
+	color: rgba(182,201,201,1);
+}
+#Icon_awesome-search {
+	opacity: 0.24;
+	fill: rgba(231,230,230,1);
+}
+.Icon_awesome-search {
+	overflow: visible;
+	position: absolute;
+	width: 31.995px;
+	height: 32px;
+	left: 41.003px;
+	top: 28px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Track_and_manage_your_trade_po {
+	left: 604px;
+	top: 268px;
+	position: absolute;
+	overflow: visible;
+	width: 721px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 32px;
+	color: rgba(182,201,201,1);
+}
+#StocXTune_-_Your_1_Stock_Manag {
+	left: 516px;
+	top: 196px;
+	position: absolute;
+	overflow: visible;
+	width: 889px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 42px;
+	color: rgba(182,201,201,1);
+}
+#Top_Trending_Portfolios_Panel {
+	position: absolute;
+	width: 1644px;
+	height: 506px;
+	left: 140px;
+	top: 591px;
+	overflow: visible;
+}
+#Rectangle_28_ {
+	fill: url(#Rectangle_28_);
+}
+.Rectangle_28_ {
+	position: absolute;
+	overflow: visible;
+	width: 1644px;
+	height: 506px;
+	left: 0px;
+	top: 0px;
+}
+#Top_Trending_Portfolios {
+	left: 69px;
+	top: 28px;
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(231,230,230,1);
+}
+#Company {
+	opacity: 0.58;
+	left: 75px;
+	top: 97px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.4px;
+}
+#Last_Price {
+	opacity: 0.58;
+	left: 273px;
+	top: 97px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.4px;
+}
+#Yesterday_Price {
+	opacity: 0.58;
+	left: 464px;
+	top: 97px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.4px;
+}
+#Price_Change {
+	opacity: 0.58;
+	left: 743px;
+	top: 97px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.4px;
+}
+#Todays_Return_ {
+	opacity: 0.58;
+	left: 943px;
+	top: 97px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.4px;
+}
+#Total_Return {
+	opacity: 0.58;
+	left: 1173px;
+	top: 97px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.4px;
+}
+#n__Day_Chart {
+	opacity: 0.58;
+	left: 1458px;
+	top: 97px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.4px;
+}
+#Group_21 {
+	position: absolute;
+	width: 1182px;
+	height: 24px;
+	left: 90px;
+	top: 153px;
+	overflow: visible;
+}
+#AAPL {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(152,252,252,1);
+	letter-spacing: 0.4px;
+}
+#n_52525907 {
+	left: 188px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#n_8547152 {
+	left: 851px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#n_9225336 {
+	left: 1079px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#n_13 {
+	left: 447px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(14,226,49,1);
+	letter-spacing: 0.4px;
+}
+#n_83 {
+	left: 675px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(14,226,49,1);
+	letter-spacing: 0.4px;
+}
+#Group_21_bj {
+	position: absolute;
+	width: 1182px;
+	height: 24px;
+	left: 90px;
+	top: 209px;
+	overflow: visible;
+}
+#FB {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(152,252,252,1);
+	letter-spacing: 0.4px;
+}
+#n_35299912 {
+	left: 190px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#n_4124122 {
+	left: 853px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#n_94241501 {
+	left: 1070px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#n_735 {
+	left: 447px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,103,169,1);
+	letter-spacing: 0.4px;
+}
+#n_932 {
+	left: 675px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,103,169,1);
+	letter-spacing: 0.4px;
+}
+#Group_21_bq {
+	position: absolute;
+	width: 1182px;
+	height: 24px;
+	left: 90px;
+	top: 265px;
+	overflow: visible;
+}
+#TSLA {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(152,252,252,1);
+	letter-spacing: 0.4px;
+}
+#n_25214166 {
+	left: 192px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#n_9225432 {
+	left: 850px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#n_8925421 {
+	left: 1079px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#n_71 {
+	left: 447px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(14,226,49,1);
+	letter-spacing: 0.4px;
+}
+#n_66 {
+	left: 675px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(14,226,49,1);
+	letter-spacing: 0.4px;
+}
+#Group_21_bx {
+	position: absolute;
+	width: 1182px;
+	height: 24px;
+	left: 90px;
+	top: 321px;
+	overflow: visible;
+}
+#FEST {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(152,252,252,1);
+	letter-spacing: 0.4px;
+}
+#n_12545278 {
+	left: 193px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#n_125389 {
+	left: 862px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#n_0525321 {
+	left: 1079px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#n_532 {
+	left: 447px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,103,169,1);
+	letter-spacing: 0.4px;
+}
+#n_1954 {
+	left: 675px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 54px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,103,169,1);
+	letter-spacing: 0.4px;
+}
+#Group_21_b {
+	position: absolute;
+	width: 1182px;
+	height: 24px;
+	left: 90px;
+	top: 377px;
+	overflow: visible;
+}
+#DIS {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(152,252,252,1);
+	letter-spacing: 0.4px;
+}
+#n_6984745 {
+	left: 203px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#n_7815512 {
+	left: 854px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#n_57441751 {
+	left: 1071px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#n_1732 {
+	left: 447px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,103,169,1);
+	letter-spacing: 0.4px;
+}
+#n_1555 {
+	left: 675px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,103,169,1);
+	letter-spacing: 0.4px;
+}
+#Group_21_cb {
+	position: absolute;
+	width: 1182px;
+	height: 24px;
+	left: 90px;
+	top: 433px;
+	overflow: visible;
+}
+#ADBF {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(152,252,252,1);
+	letter-spacing: 0.4px;
+}
+#n_4514888 {
+	left: 206px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#n_8614233 {
+	left: 850px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#n_1211288 {
+	left: 1084px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(231,230,230,1);
+	letter-spacing: 0.4px;
+}
+#n_444 {
+	left: 447px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(14,226,49,1);
+	letter-spacing: 0.4px;
+}
+#n_49 {
+	left: 675px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(14,226,49,1);
+	letter-spacing: 0.4px;
+}
+#Repeat_Grid_5 {
+	position: absolute;
+	width: 1496.5px;
+	height: 347px;
+	left: 75px;
+	top: 137px;
+	overflow: hidden;
+}
+#Group {
+	position: absolute;
+	width: 1496.5px;
+	height: 1px;
+	left: 0px;
+	top: 0.5px;
+	overflow: visible;
+}
+#Line_4 {
+	opacity: 0.5;
+	fill: transparent;
+	stroke: rgba(152,252,252,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 1496.5px;
+	height: 1px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_cl {
+	position: absolute;
+	width: 1496.5px;
+	height: 1px;
+	left: 0px;
+	top: 56.5px;
+	overflow: visible;
+}
+#Line_4_cm {
+	opacity: 0.5;
+	fill: transparent;
+	stroke: rgba(152,252,252,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4_cm {
+	overflow: visible;
+	position: absolute;
+	width: 1496.5px;
+	height: 1px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_cn {
+	position: absolute;
+	width: 1496.5px;
+	height: 1px;
+	left: 0px;
+	top: 112.5px;
+	overflow: visible;
+}
+#Line_4_co {
+	opacity: 0.5;
+	fill: transparent;
+	stroke: rgba(152,252,252,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4_co {
+	overflow: visible;
+	position: absolute;
+	width: 1496.5px;
+	height: 1px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_cp {
+	position: absolute;
+	width: 1496.5px;
+	height: 1px;
+	left: 0px;
+	top: 168.5px;
+	overflow: visible;
+}
+#Line_4_cq {
+	opacity: 0.5;
+	fill: transparent;
+	stroke: rgba(152,252,252,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4_cq {
+	overflow: visible;
+	position: absolute;
+	width: 1496.5px;
+	height: 1px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_cr {
+	position: absolute;
+	width: 1496.5px;
+	height: 1px;
+	left: 0px;
+	top: 224.5px;
+	overflow: visible;
+}
+#Line_4_cs {
+	opacity: 0.5;
+	fill: transparent;
+	stroke: rgba(152,252,252,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4_cs {
+	overflow: visible;
+	position: absolute;
+	width: 1496.5px;
+	height: 1px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_ct {
+	position: absolute;
+	width: 1496.5px;
+	height: 1px;
+	left: 0px;
+	top: 280.5px;
+	overflow: visible;
+}
+#Line_4_cu {
+	opacity: 0.5;
+	fill: transparent;
+	stroke: rgba(152,252,252,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4_cu {
+	overflow: visible;
+	position: absolute;
+	width: 1496.5px;
+	height: 1px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_cv {
+	position: absolute;
+	width: 1496.5px;
+	height: 1px;
+	left: 0px;
+	top: 336.5px;
+	overflow: visible;
+}
+#Line_4_cw {
+	opacity: 0.5;
+	fill: transparent;
+	stroke: rgba(152,252,252,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4_cw {
+	overflow: visible;
+	position: absolute;
+	width: 1496.5px;
+	height: 1px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_7__1 {
+	position: absolute;
+	width: 33px;
+	height: 33px;
+	left: 1547px;
+	top: 30px;
+	overflow: visible;
+}
+#Ellipse_14_cz {
+	opacity: 0.12;
+	fill: url(#Ellipse_14_cz);
+}
+.Ellipse_14_cz {
+	position: absolute;
+	overflow: visible;
+	width: 33px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+}
+#Path_20 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_20 {
+	overflow: visible;
+	position: absolute;
+	width: 12.183px;
+	height: 17.198px;
+	left: 12.351px;
+	top: 9.045px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_6__1 {
+	position: absolute;
+	width: 33px;
+	height: 33px;
+	left: 1496px;
+	top: 30px;
+	overflow: visible;
+}
+#Group_23 {
+	position: absolute;
+	width: 33px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_14_da {
+	opacity: 0.12;
+	fill: url(#Ellipse_14_da);
+}
+.Ellipse_14_da {
+	position: absolute;
+	overflow: visible;
+	width: 33px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+}
+#Path_20_c {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_20_c {
+	overflow: visible;
+	position: absolute;
+	width: 12.183px;
+	height: 17.198px;
+	left: 12.351px;
+	top: 9.045px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_14_c {
+	fill: url(#Path_14_c);
+	stroke: rgba(14,226,49,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_14_c {
+	overflow: visible;
+	position: absolute;
+	width: 173.988px;
+	height: 25.878px;
+	left: 1380.187px;
+	top: 152px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_15_c {
+	fill: url(#Path_15_c);
+	stroke: rgba(255,103,169,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_15_c {
+	overflow: visible;
+	position: absolute;
+	width: 167.168px;
+	height: 28.847px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,1380.0964,202.0693) rotate(1deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Path_16_db {
+	fill: url(#Path_16_db);
+	stroke: rgba(14,226,49,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_16_db {
+	overflow: visible;
+	position: absolute;
+	width: 168.537px;
+	height: 19.036px;
+	left: 1379.857px;
+	top: 266.373px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_14_dd {
+	fill: url(#Path_14_dd);
+	stroke: rgba(255,103,169,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_14_dd {
+	overflow: visible;
+	position: absolute;
+	width: 174.315px;
+	height: 25.878px;
+	left: 1379.857px;
+	top: 317.497px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_14_df {
+	fill: url(#Path_14_df);
+	stroke: rgba(255,103,169,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_14_df {
+	overflow: visible;
+	position: absolute;
+	width: 171.187px;
+	height: 32.413px;
+	left: 1383px;
+	top: 371.11px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_14_dh {
+	fill: url(#Path_14_dh);
+	stroke: rgba(14,226,49,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_14_dh {
+	overflow: visible;
+	position: absolute;
+	width: 181.71px;
+	height: 29.096px;
+	left: 1383px;
+	top: 430.732px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Button_Register {
+	position: absolute;
+	width: 184px;
+	height: 56px;
+	left: 1378px;
+	top: 18px;
+	overflow: visible;
+}
+#Path_19 {
+	fill: rgba(10,83,83,1);
+}
+.Path_19 {
+	overflow: visible;
+	position: absolute;
+	width: 184px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Register {
+	left: 46px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.4px;
+}
+#Button_Sign_In {
+	position: absolute;
+	width: 184px;
+	height: 56px;
+	left: 1586px;
+	top: 20px;
+	overflow: visible;
+}
+#Rectangle_26 {
+	fill: transparent;
+	stroke: rgba(33,117,117,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 184px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+}
+#Sign_In {
+	opacity: 0.67;
+	left: 60px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(152,252,252,1);
+	letter-spacing: 0.4px;
+}
+#Logo_img {
+	position: absolute;
+	width: 272px;
+	height: 56px;
+	left: 140px;
+	top: 20px;
+	overflow: visible;
+}
+#Dark_mode {
+	position: absolute;
+	width: 28px;
+	height: 28px;
+	left: 1328px;
+	top: 32px;
+	overflow: visible;
+}
